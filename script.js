@@ -210,7 +210,7 @@ chceckoutBtn.addEventListener("click", function(){
 
 
     const message = encodeURIComponent(finalMessage)
-    const phone = "+5512992168213"
+    const phone = "+5512991273598"
 
     window.open(`https://wa.me/${phone}?text=${message}`, "_blank")
 
